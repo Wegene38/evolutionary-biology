@@ -4,13 +4,18 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 1,
-  "last_updated": "2026-11-03",
+  "last_completed_day": 2,
+  "last_updated": "2026-11-04",
   "history": [
     {
       "day": 1,
       "date": "2026-11-03",
       "file": "lessons/week01/day001-introduction.md"
+    },
+    {
+      "day": 2,
+      "date": "2026-11-04",
+      "file": "lessons/week01/day002-history-darwin-wallace.md"
     }
   ]
 }

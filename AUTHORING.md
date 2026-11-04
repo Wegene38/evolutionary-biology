@@ -55,7 +55,7 @@
 3. **读取依据**：读取 `SYLLABUS.md` 中 Day N 一行（主题、核心概念、主读材料、原始文献）及所在周的"本周目标"；阅读前两讲讲义以保持连贯；N 为 7 的倍数时为复盘日。
 4. **检索与核实**：按 A.4 用网页检索核实每条拟引用文献和主读材料链接。注意：本云环境的网络策略可能拦截直接抓取网页（WebFetch）；遇到拦截不要重试或绕过，改用检索（WebSearch）并以检索结果中的官方页面为准。
 5. **撰写**：按模板写讲义；必要时可在课表框架内调整细节，但不改变当日主题。
-6. **更新索引与状态**：`GLOSSARY.md`、`references.bib`、`lessons/README.md`、`README.md` 学习进度表、`progress.json`（`last_completed_day` = N，`last_updated` = TODAY，并在 `history` 追加 `{"day": N, "date": TODAY, "file": 路径}`）。
+6. **更新索引与状态**：`GLOSSARY.md`、`references.bib`、`lessons/README.md`、`README.md` 学习进度表、`progress.json`（`last_completed_day` = N，`last_updated` = TODAY，并在 `history` 追加 `{"day": N, "date": TODAY, "file": 路径}`）；同时把上一讲末尾的"下一讲"改为指向本讲的链接。
 7. **自检**：Markdown 表格与公式能正常渲染；内部链接路径正确；无占位符残留；编号、日期与课表一致；练习答案已验算。
 8. **提交与推送**：提交作者为 `Wegene38 <338052809+Wegene38@users.noreply.github.com>`；提交信息为 `Day NNN: <中文标题>`；推送到 `main` 分支。网络错误时按 2、4、8、16 秒间隔重试，最多 4 次。
 9. **每次运行只发布一讲。** 若某天运行失败，次日照常发布下一讲，不补发、不跳号。

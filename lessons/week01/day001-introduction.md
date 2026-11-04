@@ -238,4 +238,4 @@ $$\Delta p = p' - p = \frac{p(1-p)\,(w_A - w_a)}{\bar{w}} .$$
 
 ---
 
-**下一讲** Day 002 · 进化思想史 I：从自然神学到达尔文与华莱士
+**下一讲** [Day 002 · 进化思想史 I：从自然神学到达尔文与华莱士](day002-history-darwin-wallace.md)

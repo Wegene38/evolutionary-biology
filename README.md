@@ -46,11 +46,12 @@
 
 ## 学习进度
 
-已发布 **1 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **2 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
 | [001](lessons/week01/day001-introduction.md) | 2026-11-03 | 进化生物学导论：研究对象、解释层次与核心问题 |
+| [002](lessons/week01/day002-history-darwin-wallace.md) | 2026-11-04 | 进化思想史 I：从自然神学到达尔文与华莱士 |
 
 ---
 

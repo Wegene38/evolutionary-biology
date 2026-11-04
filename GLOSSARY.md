@@ -16,6 +16,19 @@
 | 适合度 | fitness | 个体或基因型对后代世代的相对贡献，包括存活与繁殖 | [Day 001](lessons/week01/day001-introduction.md) |
 | 适应 | adaptation | 由自然选择塑造、提高适合度的性状，或塑造这类性状的过程 | [Day 001](lessons/week01/day001-introduction.md) |
 | 互惠因果 | reciprocal causation | 发育等近因过程反过来影响选择的因果关系 | [Day 001](lessons/week01/day001-introduction.md) |
+| 自然阶梯 | *scala naturae* | 将生物按"完善程度"排成线性等级的古典观念 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 物种固定论 | fixity of species | 认为物种自被创造以来保持不变的观点 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 自然神学 | natural theology | 以自然界的秩序与适应论证造物主存在及其属性的神学传统 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 设计论证 | argument from design | 由生物结构的精巧适应推断存在设计者的论证，如 Paley 的钟表类比 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 转变论 | transformism / transmutation | 19 世纪对"物种可以转变"（进化）观点的称呼 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 获得性状遗传 | inheritance of acquired characters | 认为个体一生中获得的改变可以传给后代的观点 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 灾变论 | catastrophism | 以多次剧烈、大范围的地质事件解释地层与化石更替的学说 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 均变论 | uniformitarianism | 以今天仍在作用的过程、以今天的强度解释地质历史的学说 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 生存斗争 | struggle for existence | 繁殖潜力超过资源承载而导致的存活与繁殖竞争 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 自然选择 | natural selection | 在可遗传变异中，适合度较高的类型在后代中比例增加的过程 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 人工选择 | artificial selection | 人类有意或无意地选择亲本所造成的进化 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 性状分歧原理 | principle of divergence | 后代向不同生活方式分化可减少竞争而被保存，从而使谱系分支、类群分化 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 共同由来 | common descent | 现存生物源于共同祖先的主张 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
 
 ## 二 群体遗传学
 
