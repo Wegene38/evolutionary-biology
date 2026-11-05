@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 2,
-  "last_updated": "2026-11-04",
+  "last_completed_day": 3,
+  "last_updated": "2026-11-05",
   "history": [
     {
       "day": 1,
@@ -16,6 +16,11 @@
       "day": 2,
       "date": "2026-11-04",
       "file": "lessons/week01/day002-history-darwin-wallace.md"
+    },
+    {
+      "day": 3,
+      "date": "2026-11-05",
+      "file": "lessons/week01/day003-mendel-modern-synthesis.md"
     }
   ]
 }

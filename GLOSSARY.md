@@ -29,6 +29,17 @@
 | 人工选择 | artificial selection | 人类有意或无意地选择亲本所造成的进化 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
 | 性状分歧原理 | principle of divergence | 后代向不同生活方式分化可减少竞争而被保存，从而使谱系分支、类群分化 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
 | 共同由来 | common descent | 现存生物源于共同祖先的主张 | [Day 002](lessons/week01/day002-history-darwin-wallace.md) |
+| 泛生论 | pangenesis | 达尔文的暂定遗传假说：身体各部分产生的微芽汇集到生殖细胞中 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 融合遗传 | blending inheritance | 认为子代性状是父母性状混合的遗传观念；在随机交配下会使变异每代减半 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 颗粒遗传 | particulate inheritance | 遗传因子在杂交中不混合、完整传递的遗传方式（孟德尔遗传） | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 种质学说 | germ-plasm theory | Weismann 的学说：种质与体质分离，体细胞的改变不能传给后代 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 达尔文主义的日食 | eclipse of Darwinism | 约 1880–1920 年间自然选择学说受到普遍质疑的时期 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 直生论 | orthogenesis | 认为进化受内在因素驱动、沿预定方向进行的学说 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 突变论 | mutationism | 认为新物种由大幅度不连续突变一步产生的学说 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 生物统计学派 | biometricians | 以统计方法研究连续变异的学派（Galton、Pearson、Weldon） | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 孟德尔学派 | Mendelians | 以杂交实验研究不连续性状遗传的学派（Bateson 等） | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 多因子假说 | multiple-factor hypothesis | 连续性状由多个孟德尔因子共同控制的假说 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 现代综合 | Modern Synthesis | 约 1936–1950 年间遗传学与自然选择学说、系统学、古生物学等的整合 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
 
 ## 二 群体遗传学
 
