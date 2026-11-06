@@ -7,3 +7,4 @@
 | [001](week01/day001-introduction.md) | 2026-11-03 | 第 1 周 | 讲授 | 进化生物学导论：研究对象、解释层次与核心问题 |
 | [002](week01/day002-history-darwin-wallace.md) | 2026-11-04 | 第 1 周 | 讲授 | 进化思想史 I：从自然神学到达尔文与华莱士 |
 | [003](week01/day003-mendel-modern-synthesis.md) | 2026-11-05 | 第 1 周 | 讲授 | 进化思想史 II：孟德尔遗传与现代综合 |
+| [004](week01/day004-neutral-theory-ees.md) | 2026-11-06 | 第 1 周 | 讲授 | 进化思想史 III：中性理论与"扩展综合"之争 |

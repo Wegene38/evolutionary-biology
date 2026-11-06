@@ -218,4 +218,4 @@ Fisher 与 Wright 之间关于漂变与群体结构重要性的长期争论，�
 
 ---
 
-**上一讲** [Day 002 · 进化思想史 I：从自然神学到达尔文与华莱士](day002-history-darwin-wallace.md) ｜ **下一讲** Day 004 · 进化思想史 III：中性理论与"扩展综合"之争
+**上一讲** [Day 002 · 进化思想史 I：从自然神学到达尔文与华莱士](day002-history-darwin-wallace.md) ｜ **下一讲** [Day 004 · 进化思想史 III：中性理论与"扩展综合"之争](day004-neutral-theory-ees.md)

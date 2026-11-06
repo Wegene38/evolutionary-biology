@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 3,
-  "last_updated": "2026-11-05",
+  "last_completed_day": 4,
+  "last_updated": "2026-11-06",
   "history": [
     {
       "day": 1,
@@ -21,6 +21,11 @@
       "day": 3,
       "date": "2026-11-05",
       "file": "lessons/week01/day003-mendel-modern-synthesis.md"
+    },
+    {
+      "day": 4,
+      "date": "2026-11-06",
+      "file": "lessons/week01/day004-neutral-theory-ees.md"
     }
   ]
 }

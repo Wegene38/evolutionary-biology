@@ -40,6 +40,18 @@
 | 孟德尔学派 | Mendelians | 以杂交实验研究不连续性状遗传的学派（Bateson 等） | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
 | 多因子假说 | multiple-factor hypothesis | 连续性状由多个孟德尔因子共同控制的假说 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
 | 现代综合 | Modern Synthesis | 约 1936–1950 年间遗传学与自然选择学说、系统学、古生物学等的整合 | [Day 003](lessons/week01/day003-mendel-modern-synthesis.md) |
+| 分子钟 | molecular clock | 分子序列的替代以近似恒定速率累积，因而可用于估计分歧时间的假说 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 经典学派与平衡学派 | classical and balance schools | 关于自然群体中遗传变异多寡及其维持机制的两种立场 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 中性理论 | neutral theory of molecular evolution | 认为分子水平的大多数替代与多态源于选择中性突变的遗传漂变的理论 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 中性突变 | neutral mutation | 对适合度没有影响、或影响小到其命运主要由漂变决定的突变 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 替代速率 | substitution rate | 单位时间内在谱系中被固定的突变数 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 功能约束 | functional constraint | 因功能重要而使大多数突变有害、被净化选择清除，从而减慢序列进化的作用 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 近中性理论 | nearly neutral theory | Ohta 的扩展：轻微有害突变的命运取决于 Nₑs，在小群体中更容易被固定 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 零模型 | null model | 用于检验某一过程（如选择）是否存在的基准模型 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 扩展进化综合 | extended evolutionary synthesis (EES) | 强调发育偏好、可塑性、包容性遗传与生态位构建作用的理论主张 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 生态位构建 | niche construction | 生物改变自身或其他生物所处的环境，从而改变选择的过程 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 发育偏好 | developmental bias | 发育系统使某些表型变异比另一些更容易产生的倾向 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 包容性遗传 | inclusive inheritance | 除基因之外，经由表观遗传、生态与文化等途径的跨代传递 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
 
 ## 二 群体遗传学
 
