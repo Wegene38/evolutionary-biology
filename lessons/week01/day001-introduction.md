@@ -223,7 +223,7 @@ $$\Delta p = p' - p = \frac{p(1-p)\,(w_A - w_a)}{\bar{w}} .$$
 - Bateson, P., & Laland, K. N. (2013). Tinbergen's four questions: An appreciation and an update. *Trends in Ecology & Evolution, 28*(12), 712–718. https://doi.org/10.1016/j.tree.2013.09.013
 - Dobzhansky, T. (1973). Nothing in biology makes sense except in the light of evolution. *The American Biology Teacher, 35*(3), 125–129. https://doi.org/10.2307/4444260 ［[PBS 转载](https://www.pbs.org/wgbh/evolution/library/10/2/l_102_01.html)］
 - Felsenstein, J. (1985). Phylogenies and the comparative method. *The American Naturalist, 125*(1), 1–15. https://doi.org/10.1086/284325
-- Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 205*(1161), 581–598.（DOI 未核实）
+- Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 205*(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086
 - Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and effect in biology revisited: Is Mayr's proximate–ultimate dichotomy still useful? *Science, 334*(6062), 1512–1516. https://doi.org/10.1126/science.1210879
 - Lewontin, R. C. (1970). The units of selection. *Annual Review of Ecology and Systematics, 1*, 1–18. https://doi.org/10.1146/annurev.es.01.110170.000245
 - Mayr, E. (1961). Cause and effect in biology. *Science, 134*(3489), 1501–1506. https://doi.org/10.1126/science.134.3489.1501

@@ -52,6 +52,16 @@
 | 生态位构建 | niche construction | 生物改变自身或其他生物所处的环境，从而改变选择的过程 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
 | 发育偏好 | developmental bias | 发育系统使某些表型变异比另一些更容易产生的倾向 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
 | 包容性遗传 | inclusive inheritance | 除基因之外，经由表观遗传、生态与文化等途径的跨代传递 | [Day 004](lessons/week01/day004-neutral-theory-ees.md) |
+| 适应的历史定义 | historical definition of adaptation | 性状因执行某功能而被自然选择塑造，才算对该功能的适应 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 适应的非历史定义 | nonhistorical definition of adaptation | 在给定环境中，一组表型变体里适合度最高者即为适应 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 扩展适应 | exaptation | 当前提高适合度、但并非为当前功能而被选择形成的性状 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 副产物 | by-product | 本身未被选择、作为其他性状受选择的结果而伴随出现的特征 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 拱肩 | spandrel | Gould 与 Lewontin 借用的建筑术语，比喻作为结构副产物出现的性状 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 适应主义 | adaptationism | 关于自然选择与适应在进化解释中地位的一组主张（经验的、解释的、方法论的） | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 适应主义纲领 | adaptationist programme | Gould 与 Lewontin 所批评的、为每个性状单独寻找适应性解释的研究方式 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| "就是如此"故事 | just-so story | 合理但未经检验的适应性叙事 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 选择出与选择依据 | selection of / selection for | 区分被选择保留下来的特征与选择实际作用的特征 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 最优化模型 | optimality model | 在给定代价与约束下预测最优性状值、并与观察比较的模型 | [Day 005](lessons/week01/day005-adaptationism.md) |
 
 ## 二 群体遗传学
 

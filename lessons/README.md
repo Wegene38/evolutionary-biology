@@ -8,3 +8,4 @@
 | [002](week01/day002-history-darwin-wallace.md) | 2026-11-04 | 第 1 周 | 讲授 | 进化思想史 I：从自然神学到达尔文与华莱士 |
 | [003](week01/day003-mendel-modern-synthesis.md) | 2026-11-05 | 第 1 周 | 讲授 | 进化思想史 II：孟德尔遗传与现代综合 |
 | [004](week01/day004-neutral-theory-ees.md) | 2026-11-06 | 第 1 周 | 讲授 | 进化思想史 III：中性理论与"扩展综合"之争 |
+| [005](week01/day005-adaptationism.md) | 2026-11-07 | 第 1 周 | 讲授 | 自然选择的逻辑与适应主义 |

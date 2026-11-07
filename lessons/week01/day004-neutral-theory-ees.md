@@ -183,7 +183,7 @@ Laland 等（2015）系统阐述了**扩展进化综合**（extended evolutionar
 - Charlesworth, B., Charlesworth, D., Coyne, J. A., & Langley, C. H. (2016). Hubby and Lewontin on protein variation in natural populations: When molecular genetics came to the rescue of population genetics. *Genetics, 203*(4), 1497–1503. https://doi.org/10.1534/genetics.115.185975 ［[PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC4981259)］
 - Futuyma, D. J. (2017). Evolutionary biology today and the call for an extended synthesis. *Interface Focus, 7*(5), 20160145. https://doi.org/10.1098/rsfs.2016.0145 ［[PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC5566807)］
 - Gillespie, J. H. (1991). *The causes of molecular evolution*. Oxford University Press.
-- Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 205*(1161), 581–598.（DOI 未核实）
+- Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 205*(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086
 - Harris, H. (1966). Enzyme polymorphisms in man. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 164*(995), 298–310. https://doi.org/10.1098/rspb.1966.0032
 - Jensen, J. D., Payseur, B. A., Stephan, W., Aquadro, C. F., Lynch, M., Charlesworth, D., & Charlesworth, B. (2019). The importance of the Neutral Theory in 1968 and 50 years on: A response to Kern and Hahn 2018. *Evolution, 73*(1), 111–114. https://doi.org/10.1111/evo.13650 ［[PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC6496948)］
 - Kern, A. D., & Hahn, M. W. (2018). The neutral theory in light of natural selection. *Molecular Biology and Evolution, 35*(6), 1366–1371. https://doi.org/10.1093/molbev/msy092 ［[作者主页 PDF](https://hahnlab.sitehost.iu.edu/Publications/KernHahn2018.pdf)］
@@ -204,4 +204,4 @@ Laland 等（2015）系统阐述了**扩展进化综合**（extended evolutionar
 
 ---
 
-**上一讲** [Day 003 · 进化思想史 II：孟德尔遗传与现代综合](day003-mendel-modern-synthesis.md) ｜ **下一讲** Day 005 · 自然选择的逻辑与适应主义
+**上一讲** [Day 003 · 进化思想史 II：孟德尔遗传与现代综合](day003-mendel-modern-synthesis.md) ｜ **下一讲** [Day 005 · 自然选择的逻辑与适应主义](day005-adaptationism.md)
