@@ -196,4 +196,4 @@ Day 001 用岩囊鼠的例子说明了 Tinbergen 四问，并指出"适应意义
 
 ---
 
-**上一讲** [Day 004 · 进化思想史 III：中性理论与"扩展综合"之争](day004-neutral-theory-ees.md) ｜ **下一讲** Day 006 · 进化的证据 I：同源性与比较解剖
+**上一讲** [Day 004 · 进化思想史 III：中性理论与"扩展综合"之争](day004-neutral-theory-ees.md) ｜ **下一讲** [Day 006 · 进化的证据 I：同源性与比较解剖](day006-homology.md)

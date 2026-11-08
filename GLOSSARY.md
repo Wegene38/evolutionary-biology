@@ -62,6 +62,20 @@
 | "就是如此"故事 | just-so story | 合理但未经检验的适应性叙事 | [Day 005](lessons/week01/day005-adaptationism.md) |
 | 选择出与选择依据 | selection of / selection for | 区分被选择保留下来的特征与选择实际作用的特征 | [Day 005](lessons/week01/day005-adaptationism.md) |
 | 最优化模型 | optimality model | 在给定代价与约束下预测最优性状值、并与观察比较的模型 | [Day 005](lessons/week01/day005-adaptationism.md) |
+| 同源 | homology | 不同类群中源于共同祖先同一性状的性状之间的关系 | [Day 006](lessons/week01/day006-homology.md) |
+| 同功 | analogy | 不同类群中执行相同功能、但不一定同源的结构之间的关系 | [Day 006](lessons/week01/day006-homology.md) |
+| 原型 | archetype | Owen 提出的理想化结构蓝图，用于解释同源 | [Day 006](lessons/week01/day006-homology.md) |
+| 同塑 | homoplasy | 不源于共同祖先的相似性，包括趋同、平行与逆转 | [Day 006](lessons/week01/day006-homology.md) |
+| 趋同 | convergence | 不同谱系独立演化出相似性状 | [Day 006](lessons/week01/day006-homology.md) |
+| 平行 | parallelism | 亲缘较近的谱系往往借助相同途径独立演化出相似性状 | [Day 006](lessons/week01/day006-homology.md) |
+| 逆转 | reversal | 衍生性状恢复为祖先状态 | [Day 006](lessons/week01/day006-homology.md) |
+| 生物学同源概念 | biological homology concept | Wagner 提出：同源结构共享由器官分化的自我调控机制造成的发育约束 | [Day 006](lessons/week01/day006-homology.md) |
+| 一致性检验 | congruence test | 检验假定的同源性状是否与其他性状支持的系统发育相一致 | [Day 006](lessons/week01/day006-homology.md) |
+| 痕迹结构 | vestigial structure | 与亲缘类群中有功能的结构同源、但已明显退化或改变功能的结构 | [Day 006](lessons/week01/day006-homology.md) |
+| 系列同源 | serial homology | 同一个体内重复出现的结构之间的同源关系 | [Day 006](lessons/week01/day006-homology.md) |
+| 重演论 | recapitulation theory | Haeckel 的"个体发育重演系统发育"主张，作为一般规律已被否定 | [Day 006](lessons/week01/day006-homology.md) |
+| 发育沙漏模型 | developmental hourglass model | 认为同一门类的胚胎在中期最为相似、早期和晚期差异较大的模型 | [Day 006](lessons/week01/day006-homology.md) |
+| 系统发育型阶段 | phylotypic stage | 发育沙漏模型中物种间最为相似的胚胎阶段 | [Day 006](lessons/week01/day006-homology.md) |
 
 ## 二 群体遗传学
 
