@@ -76,6 +76,9 @@
 | 重演论 | recapitulation theory | Haeckel 的"个体发育重演系统发育"主张，作为一般规律已被否定 | [Day 006](lessons/week01/day006-homology.md) |
 | 发育沙漏模型 | developmental hourglass model | 认为同一门类的胚胎在中期最为相似、早期和晚期差异较大的模型 | [Day 006](lessons/week01/day006-homology.md) |
 | 系统发育型阶段 | phylotypic stage | 发育沙漏模型中物种间最为相似的胚胎阶段 | [Day 006](lessons/week01/day006-homology.md) |
+| 共有衍征 | synapomorphy | 一个类群共有的衍生性状状态，用于界定单系群 | [Day 006](lessons/week01/day006-homology.md) |
+| 共有祖征 | symplesiomorphy | 多个类群共同保留的祖先性状状态，不能用于界定单系群 | [Day 007](lessons/week01/day007-week01-review.md) |
+| 自有衍征 | autapomorphy | 仅见于单个末端类群的衍生性状状态 | [Day 007](lessons/week01/day007-week01-review.md) |
 
 ## 二 群体遗传学
 

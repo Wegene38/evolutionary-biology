@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 6,
-  "last_updated": "2026-11-08",
+  "last_completed_day": 7,
+  "last_updated": "2026-11-09",
   "history": [
     {
       "day": 1,
@@ -36,6 +36,11 @@
       "day": 6,
       "date": "2026-11-08",
       "file": "lessons/week01/day006-homology.md"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-09",
+      "file": "lessons/week01/day007-week01-review.md"
     }
   ]
 }
