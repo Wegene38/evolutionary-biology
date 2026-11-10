@@ -79,6 +79,16 @@
 | 共有衍征 | synapomorphy | 一个类群共有的衍生性状状态，用于界定单系群 | [Day 006](lessons/week01/day006-homology.md) |
 | 共有祖征 | symplesiomorphy | 多个类群共同保留的祖先性状状态，不能用于界定单系群 | [Day 007](lessons/week01/day007-week01-review.md) |
 | 自有衍征 | autapomorphy | 仅见于单个末端类群的衍生性状状态 | [Day 007](lessons/week01/day007-week01-review.md) |
+| 叠覆律 | law of superposition | 未经扰动的沉积序列中，下层比上层更老 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 动物群演替律 | principle of faunal succession | 化石组合按确定的顺序更替，可用于对比地层 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 放射性定年 | radiometric dating | 根据放射性同位素的衰变测定岩石或矿物的绝对年龄 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 半衰期 | half-life | 放射性母体同位素衰变掉一半所需的时间 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 埋藏学 | taphonomy | 研究生物死亡后如何被掩埋、保存为化石的学科 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 特异埋藏化石库 | Konservat-Lagerstätte | 保存了软组织等精细结构的特殊化石产地 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 过渡化石 | transitional fossil | 兼具祖先类群与后裔类群特征的化石类型 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 镶嵌进化 | mosaic evolution | 不同性状以不同速率、在不同时间演化，使一个类群兼具原始与衍生特征 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 幽灵谱系 | ghost lineage | 根据系统发育必然存在、但尚无化石记录的谱系段 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 地层一致性 | stratigraphic congruence | 系统发育的分支顺序与类群在地层中首次出现顺序的吻合程度 | [Day 008](lessons/week02/day008-fossil-record.md) |
 
 ## 二 群体遗传学
 

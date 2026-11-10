@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 7,
-  "last_updated": "2026-11-09",
+  "last_completed_day": 8,
+  "last_updated": "2026-11-10",
   "history": [
     {
       "day": 1,
@@ -41,6 +41,11 @@
       "day": 7,
       "date": "2026-11-09",
       "file": "lessons/week01/day007-week01-review.md"
+    },
+    {
+      "day": 8,
+      "date": "2026-11-10",
+      "file": "lessons/week02/day008-fossil-record.md"
     }
   ]
 }

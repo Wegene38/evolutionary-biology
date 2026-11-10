@@ -30,7 +30,7 @@
 | evo | evomics 工作坊学习材料（群体与物种形成基因组学、系统发育基因组学） | <https://evomics.org/learning/population-and-speciation-genomics/> |
 | SLiM | SLiM 正向演化模拟（手册与自学工作坊材料） | <https://messerlab.org/slim/> |
 
-> 说明：Yale 讲次编号仅标注已核实者（第 1、2、3、4、6、9、10、12、16、17、36 讲），其余只写讲次标题。各资源的评述见 [RESOURCES.md](RESOURCES.md)。
+> 说明：Yale 讲次编号仅标注已核实者（第 1、2、3、4、6、9、10、12、16、17、19、20、36 讲），其余只写讲次标题。各资源的评述见 [RESOURCES.md](RESOURCES.md)。
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Day | 主题 | 核心概念 | 主读 / 主看（免费） | 原始文献 |
 |---|---|---|---|---|
-| 008 | 进化的证据 II：化石记录与过渡形态 | 地层与放射性定年；化石记录的不完整性；过渡化石作为可检验预测（*Tiktaalik*） | Y《The Fossil Record and Life's History》；UE | Daeschler, Shubin & Jenkins 2006；Shubin, Daeschler & Jenkins 2006 |
+| 008 | 进化的证据 II：化石记录与过渡形态 | 地层与放射性定年；化石记录的不完整性；过渡化石作为可检验预测（*Tiktaalik*） | Y 第 19 讲 The Fossil Record and Life's History；UE | Daeschler, Shubin & Jenkins 2006；Shubin, Daeschler & Jenkins 2006 |
 | 009 | 进化的证据 III：生物地理学 | 替代分布与扩散；Wallace 线；海洋岛与大陆岛；岛屿特有性 | OS §18.1；UE | Wallace 1876（书）；MacArthur & Wilson 1967（书） |
 | 010 | 进化的证据 IV：分子证据与普遍共同祖先 | 遗传密码的普遍性；共享假基因与内源逆转录病毒插入；分子系统发育的嵌套层级；普遍共同祖先的形式检验 | UE；Theobald《29+ Evidences for Macroevolution》（TalkOrigins） | Zuckerkandl & Pauling 1965；Theobald 2010 |
 | 011 | 正在发生的进化：直接观测 | 达尔文雀喙形的逐年变化；桦尺蛾工业黑化；孔雀鱼引种实验；病原体耐药 | HHMI 达尔文雀短片 | Grant & Grant 2002；Cook et al. 2012；Reznick et al. 1997 |
@@ -312,7 +312,7 @@
 
 | Day | 主题 | 核心概念 | 主读 / 主看（免费） | 原始文献 |
 |---|---|---|---|---|
-| 134 | 化石记录的性质与偏差 | 埋藏学；采样偏差；化石记录质量的评估；Paleobiology Database | Y《The Fossil Record and Life's History》 | Kidwell & Holland 2002 |
+| 134 | 化石记录的性质与偏差 | 埋藏学；采样偏差；化石记录质量的评估；Paleobiology Database | Y 第 19 讲 The Fossil Record and Life's History | Kidwell & Holland 2002 |
 | 135 | 间断平衡与停滞 | 间断平衡与系统渐变；停滞的解释；化石谱系中的进化模式 | — | Eldredge & Gould 1972；Gould & Eldredge 1977；Hunt 2007 |
 | 136 | 大灭绝与复苏 | 显生宙大灭绝；K–Pg 撞击假说；选择性灭绝与复苏 | Y《Major Events in the Geological Theatre》 | Alvarez et al. 1980；Raup & Sepkoski 1982；Jablonski 2001 |
 | 137 | 关键创新与被子植物辐射 | 关键创新的检验难题；被子植物起源与达尔文的"讨厌之谜" | PCM 第 13 章 | Hodges & Arnold 1995；Friedman 2009；Magallón et al. 2015 |
@@ -363,7 +363,7 @@
 | 156 | 选择的层次与 Price 方程 | Price 方程的推导；多层次选择的分解；群体选择之争 | SEP "Units and Levels of Selection" | Price 1970；Okasha 2006（书）；Gardner 2008 |
 | 157 | 进化博弈论 | 进化稳定策略（ESS）；鹰–鸽博弈；复制子动力学 | Y《Evolutionary Game Theory: Fighting and Contests》；SEP "Evolutionary Game Theory" | Maynard Smith & Price 1973；Maynard Smith 1982（书） |
 | 158 | 合作的进化 | 互惠利他；重复囚徒困境；合作的机制；真社会性之争 | Y 第 36 讲 | Trivers 1971；Axelrod & Hamilton 1981；Nowak 2006；West, Griffin & Gardner 2007；Nowak, Tarnita & Wilson 2010；Abbot et al. 2011 |
-| 159 | 共进化 I：宿主–寄生物与红皇后 | 军备竞赛；基因对基因与匹配等位基因模型；共进化的地理镶嵌 | Y《Coevolution》 | Van Valen 1973；Dawkins & Krebs 1979；Brodie, Ridenhour & Brodie 2002；Thompson 2005（书） |
+| 159 | 共进化 I：宿主–寄生物与红皇后 | 军备竞赛；基因对基因与匹配等位基因模型；共进化的地理镶嵌 | Y 第 20 讲 Coevolution | Van Valen 1973；Dawkins & Krebs 1979；Brodie, Ridenhour & Brodie 2002；Thompson 2005（书） |
 | 160 | 共进化 II：植物–昆虫互作与化学生态 | 逃逸–辐射共进化；硫代葡萄糖苷与粉蝶；基因与基因组复制推动的军备竞赛 | — | Ehrlich & Raven 1964；Futuyma & Agrawal 2009；Edger et al. 2015 |
 | 161 | 第 23 周复盘 | 综合；文献精读 | — | 精读：Hamilton 1964（第 I 部分） |
 
