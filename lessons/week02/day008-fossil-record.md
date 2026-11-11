@@ -169,4 +169,4 @@ Niedźwiedzki 等（2010）报道了波兰圣十字山脉 Zachełmie 采石场�
 
 ---
 
-**上一讲** [Day 007 · 第 1 周复盘：进化生物学的问题、概念与思想史](../week01/day007-week01-review.md) ｜ **下一讲** Day 009 · 进化的证据 III：生物地理学
+**上一讲** [Day 007 · 第 1 周复盘：进化生物学的问题、概念与思想史](../week01/day007-week01-review.md) ｜ **下一讲** [Day 009 · 进化的证据 III：生物地理学](day009-biogeography.md)

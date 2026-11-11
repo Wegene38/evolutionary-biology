@@ -89,6 +89,24 @@
 | 镶嵌进化 | mosaic evolution | 不同性状以不同速率、在不同时间演化，使一个类群兼具原始与衍生特征 | [Day 008](lessons/week02/day008-fossil-record.md) |
 | 幽灵谱系 | ghost lineage | 根据系统发育必然存在、但尚无化石记录的谱系段 | [Day 008](lessons/week02/day008-fossil-record.md) |
 | 地层一致性 | stratigraphic congruence | 系统发育的分支顺序与类群在地层中首次出现顺序的吻合程度 | [Day 008](lessons/week02/day008-fossil-record.md) |
+| 生物地理学 | biogeography | 研究生物空间分布格局及其生态与历史成因的学科 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 历史生物地理学 | historical biogeography | 研究谱系的起源、扩散与分化如何塑造分布格局的分支领域 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 间断分布 | disjunct distribution | 亲缘类群分布于被屏障隔开的不同地区 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 替代分布 | vicariance | 原本连续的分布区被新出现的屏障分隔，两侧种群随后分化（亦译"隔离分化"） | [Day 009](lessons/week02/day009-biogeography.md) |
+| 扩散 | dispersal | 谱系越过已有屏障、在新地区建立种群的过程 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 长距离扩散 | long-distance dispersal | 借助风、洋流、漂浮物或动物跨越海洋等大尺度屏障的偶然扩散 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 动物地理界 | zoogeographic realm | 依据动物区系组成（及其系统发育关系）划分的最高级地理单元 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 华莱士线 | Wallace's Line | 马来群岛中分隔东洋区系与澳洲区系的分界，经巴厘岛与龙目岛、婆罗洲与苏拉威西岛之间 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 华莱士区 | Wallacea | 华莱士线与莱德克线之间、从未与亚洲或澳大利亚陆架相连的过渡岛屿区 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 大陆岛 | continental island | 位于大陆架上或由大陆分裂而成的岛屿 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 海洋岛 | oceanic island | 由海底火山或珊瑚礁形成、从未与大陆相连的岛屿 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 特有性 | endemism | 物种仅分布于某一地区的现象；这样的物种称为特有种 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 区系不平衡 | disharmony | 海洋岛区系中某些类群缺失或比例失调的现象，反映扩散能力的差异 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 适应辐射 | adaptive radiation | 单一祖先谱系分化为占据多种生态位的多个物种 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 种–面积关系 | species–area relationship | 物种数随面积增大而增加的经验规律，常用 $S = cA^{z}$ 描述 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 岛屿生物地理学平衡理论 | equilibrium theory of island biogeography | 认为岛屿物种数由迁入率与灭绝率的动态平衡决定的理论 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 物种周转 | species turnover | 平衡状态下物种持续迁入与灭绝所造成的组成更替 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 去动物群实验 | defaunation experiment | 人为清除岛屿上的动物后监测再定殖过程的实验 | [Day 009](lessons/week02/day009-biogeography.md) |
 
 ## 二 群体遗传学
 

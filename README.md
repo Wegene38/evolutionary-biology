@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **8 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **9 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -58,6 +58,7 @@
 | [006](lessons/week01/day006-homology.md) | 2026-11-08 | 进化的证据 I：同源性与比较解剖 |
 | [007](lessons/week01/day007-week01-review.md) | 2026-11-09 | 第 1 周复盘：进化生物学的问题、概念与思想史 |
 | [008](lessons/week02/day008-fossil-record.md) | 2026-11-10 | 进化的证据 II：化石记录与过渡形态 |
+| [009](lessons/week02/day009-biogeography.md) | 2026-11-11 | 进化的证据 III：生物地理学 |
 
 ---
 
