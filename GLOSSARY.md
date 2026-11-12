@@ -107,6 +107,20 @@
 | 岛屿生物地理学平衡理论 | equilibrium theory of island biogeography | 认为岛屿物种数由迁入率与灭绝率的动态平衡决定的理论 | [Day 009](lessons/week02/day009-biogeography.md) |
 | 物种周转 | species turnover | 平衡状态下物种持续迁入与灭绝所造成的组成更替 | [Day 009](lessons/week02/day009-biogeography.md) |
 | 去动物群实验 | defaunation experiment | 人为清除岛屿上的动物后监测再定殖过程的实验 | [Day 009](lessons/week02/day009-biogeography.md) |
+| 标准遗传密码 | standard genetic code | 几乎所有生物共享的 64 个密码子与 20 种氨基酸及终止信号之间的对应关系 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 变异遗传密码 | variant genetic code | 某些谱系（如线粒体、支原体）中对标准密码的局部修改 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 冻结偶然假说 | frozen accident hypothesis | 认为密码的对应关系大体出于偶然，一旦确立，任何改变都会同时破坏大量蛋白质，因而被固定下来 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 误差最小化 | error minimization | 遗传密码的结构使点突变或误译产生的氨基酸替换代价较小的性质 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 信息分子 | semantide | Zuckerkandl 与 Pauling 对携带遗传信息的分子（基因、RNA、多肽）的称呼 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 嵌套层级 | nested hierarchy | 共同由来与分支分化所预测的"群中有群"的性状分布格局 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 系统发育一致性 | phylogenetic congruence | 由相互独立的数据集推断出的系统发育树彼此吻合的程度 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 假基因 | pseudogene | 因突变而丧失原有功能的基因拷贝 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 逆转座子 | retroposon | 通过 RNA 中间体逆转录后插入基因组而增殖的转座元件，如 SINE 与 LINE | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 短散在核元件 | short interspersed nuclear element (SINE) | 长度较短、依赖其他元件编码的酶进行逆转座的散在重复序列 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 长散在核元件 | long interspersed nuclear element (LINE) | 自身编码逆转录所需蛋白的较长散在重复序列 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 内源逆转录病毒 | endogenous retrovirus (ERV) | 整合进生殖细胞基因组并垂直遗传的逆转录病毒前病毒序列 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 长末端重复 | long terminal repeat (LTR) | 前病毒两端的重复序列，整合时两段完全相同 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 普遍共同祖先 | universal common ancestry (UCA) | 所有现生生物源于同一祖先群体的假说 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
 
 ## 二 群体遗传学
 

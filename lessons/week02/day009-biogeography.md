@@ -235,4 +235,4 @@ Wilson 与 Simberloff（1969）选择了佛罗里达湾的红树小岛：岛上�
 
 ---
 
-**上一讲** [Day 008 · 进化的证据 II：化石记录与过渡形态](day008-fossil-record.md) ｜ **下一讲** Day 010 · 进化的证据 IV：分子证据与普遍共同祖先
+**上一讲** [Day 008 · 进化的证据 II：化石记录与过渡形态](day008-fossil-record.md) ｜ **下一讲** [Day 010 · 进化的证据 IV：分子证据与普遍共同祖先](day010-molecular-evidence.md)
