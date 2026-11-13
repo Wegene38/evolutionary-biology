@@ -14,3 +14,4 @@
 | [008](week02/day008-fossil-record.md) | 2026-11-10 | 第 2 周 | 讲授 | 进化的证据 II：化石记录与过渡形态 |
 | [009](week02/day009-biogeography.md) | 2026-11-11 | 第 2 周 | 讲授 | 进化的证据 III：生物地理学 |
 | [010](week02/day010-molecular-evidence.md) | 2026-11-12 | 第 2 周 | 讲授 | 进化的证据 IV：分子证据与普遍共同祖先 |
+| [011](week02/day011-evolution-in-action.md) | 2026-11-13 | 第 2 周 | 讲授 | 正在发生的进化：直接观测 |

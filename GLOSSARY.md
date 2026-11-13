@@ -121,6 +121,14 @@
 | 内源逆转录病毒 | endogenous retrovirus (ERV) | 整合进生殖细胞基因组并垂直遗传的逆转录病毒前病毒序列 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
 | 长末端重复 | long terminal repeat (LTR) | 前病毒两端的重复序列，整合时两段完全相同 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
 | 普遍共同祖先 | universal common ancestry (UCA) | 所有现生生物源于同一祖先群体的假说 | [Day 010](lessons/week02/day010-molecular-evidence.md) |
+| 当代微进化 | contemporary microevolution | 在数十年乃至数年内可以直接测量的群体遗传组成与性状的变化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 工业黑化 | industrial melanism | 工业污染环境中黑化型个体频率上升的现象 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 标记—释放—重捕 | mark–release–recapture | 标记个体后释放，再通过重捕比例估计存活或种群参数的方法 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 引种实验 | introduction experiment | 把生物移入新环境，以检验特定选择压力所引起的进化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 共同园实验 | common-garden experiment | 在相同环境中饲养或栽培不同来源的个体，以区分遗传差异与环境效应 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 性状替换 | character displacement | 亲缘物种在共存时因竞争等相互作用而在性状上发生分化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 达尔文单位 | darwin | 进化速率单位：每百万年 $e$ 倍的性状变化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 霍尔丹单位 | haldane | 进化速率单位：每代变化的标准差数 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
 
 ## 二 群体遗传学
 

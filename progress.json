@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 10,
-  "last_updated": "2026-11-12",
+  "last_completed_day": 11,
+  "last_updated": "2026-11-13",
   "history": [
     {
       "day": 1,
@@ -56,6 +56,11 @@
       "day": 10,
       "date": "2026-11-12",
       "file": "lessons/week02/day010-molecular-evidence.md"
+    },
+    {
+      "day": 11,
+      "date": "2026-11-13",
+      "file": "lessons/week02/day011-evolution-in-action.md"
     }
   ]
 }
