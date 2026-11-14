@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **11 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **12 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -61,6 +61,7 @@
 | [009](lessons/week02/day009-biogeography.md) | 2026-11-11 | 进化的证据 III：生物地理学 |
 | [010](lessons/week02/day010-molecular-evidence.md) | 2026-11-12 | 进化的证据 IV：分子证据与普遍共同祖先 |
 | [011](lessons/week02/day011-evolution-in-action.md) | 2026-11-13 | 正在发生的进化：直接观测 |
+| [012](lessons/week02/day012-reading-phylogenetic-trees.md) | 2026-11-14 | 树状思维 I：如何阅读系统发育树 |
 
 ---
 

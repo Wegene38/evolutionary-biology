@@ -129,6 +129,24 @@
 | 性状替换 | character displacement | 亲缘物种在共存时因竞争等相互作用而在性状上发生分化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
 | 达尔文单位 | darwin | 进化速率单位：每百万年 $e$ 倍的性状变化 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
 | 霍尔丹单位 | haldane | 进化速率单位：每代变化的标准差数 | [Day 011](lessons/week02/day011-evolution-in-action.md) |
+| 树状思维 | tree thinking | 依据系统发育关系理解生物多样性与性状演化的思维方式 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 系统发育树 | phylogenetic tree | 表示一组生物谱系分化历史的分支图，是关于过去的假说 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 有根树 | rooted tree | 指明全部类群共同祖先所在位置、具有时间方向的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 无根树 | unrooted tree | 只表示类群之间的关系、不指明共同祖先位置的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 外类群 | outgroup | 已知位于研究类群之外、用于为树定根的类群 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 内部节点 | internal node | 树中代表一次谱系分化的点，对应其后裔的最近共同祖先 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 最近共同祖先 | most recent common ancestor (MRCA) | 一组类群的所有共同祖先中最晚的那一个 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 多歧分支 | polytomy | 一个节点分出两个以上谱系，通常表示关系尚未解析 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 分支图 | cladogram | 只表示分支拓扑、枝长没有意义的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 系统发育图 | phylogram | 枝长与变化量成正比的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 时间树 | chronogram | 枝长与时间成正比的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 超度量树 | ultrametric tree | 所有末端到根的距离相等的树 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 姐妹群 | sister group | 由同一个节点分出的两个谱系 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 节点旋转 | node rotation | 绕节点交换后裔枝的左右位置，不改变树所表示的关系 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 单系群（分支） | monophyletic group (clade) | 一个祖先及其全部后裔 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 并系群 | paraphyletic group | 一个祖先及其部分而非全部后裔 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 多系群 | polyphyletic group | 成员来自不同谱系、不包含其最近共同祖先的类群 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 原始谱系谬误 | primitive lineage fallacy | 把物种贫乏、早分支的谱系视为祖先或"原始"的错误 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
 
 ## 二 群体遗传学
 

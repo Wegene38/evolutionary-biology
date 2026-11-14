@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 11,
-  "last_updated": "2026-11-13",
+  "last_completed_day": 12,
+  "last_updated": "2026-11-14",
   "history": [
     {
       "day": 1,
@@ -61,6 +61,11 @@
       "day": 11,
       "date": "2026-11-13",
       "file": "lessons/week02/day011-evolution-in-action.md"
+    },
+    {
+      "day": 12,
+      "date": "2026-11-14",
+      "file": "lessons/week02/day012-reading-phylogenetic-trees.md"
     }
   ]
 }

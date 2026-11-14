@@ -183,4 +183,4 @@ $$r_{\mathrm{h}} = \frac{(\bar y_2 - \bar y_1)/s_{p}}{g},$$
 
 ---
 
-**上一讲** [Day 010 · 进化的证据 IV：分子证据与普遍共同祖先](day010-molecular-evidence.md) ｜ **下一讲** Day 012 · 树状思维 I：如何阅读系统发育树
+**上一讲** [Day 010 · 进化的证据 IV：分子证据与普遍共同祖先](day010-molecular-evidence.md) ｜ **下一讲** [Day 012 · 树状思维 I：如何阅读系统发育树](day012-reading-phylogenetic-trees.md)
