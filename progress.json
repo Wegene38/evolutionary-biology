@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 12,
-  "last_updated": "2026-11-14",
+  "last_completed_day": 13,
+  "last_updated": "2026-11-15",
   "history": [
     {
       "day": 1,
@@ -66,6 +66,11 @@
       "day": 12,
       "date": "2026-11-14",
       "file": "lessons/week02/day012-reading-phylogenetic-trees.md"
+    },
+    {
+      "day": 13,
+      "date": "2026-11-15",
+      "file": "lessons/week02/day013-systematics-nomenclature.md"
     }
   ]
 }

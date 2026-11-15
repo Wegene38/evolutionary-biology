@@ -147,6 +147,27 @@
 | 并系群 | paraphyletic group | 一个祖先及其部分而非全部后裔 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
 | 多系群 | polyphyletic group | 成员来自不同谱系、不包含其最近共同祖先的类群 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
 | 原始谱系谬误 | primitive lineage fallacy | 把物种贫乏、早分支的谱系视为祖先或"原始"的错误 | [Day 012](lessons/week02/day012-reading-phylogenetic-trees.md) |
+| 分类学 | taxonomy | 研究生物的描述、命名与归类的学科 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 系统学 | systematics | 研究生物多样性及其相互关系（包括系统发育）的学科 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 林奈等级 | Linnaean ranks | 域、界、门、纲、目、科、属、种等层层嵌套的分类等级 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 双名法 | binomial nomenclature | 以属名加种加词构成物种学名的命名方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 表征分类学 | phenetics | 依据总体相似性归类、不考虑谱系的分类方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 进化分类学 | evolutionary taxonomy | 同时考虑分支顺序与分化程度、允许并系类群的分类方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 分支系统学 | cladistics (phylogenetic systematics) | 只依据谱系关系、以共有衍征识别单系群并只承认单系群的分类方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 级 | grade | 处于相似组织水平、但不一定构成单系群的一组生物 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 衍征 | apomorphy | 相对于祖先状态的衍生性状状态 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 祖征 | plesiomorphy | 祖先性状状态 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 独有衍征 | autapomorphy | 仅见于单一类群的衍征 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 性状极性 | character polarity | 性状各状态之间孰为祖征、孰为衍征的方向 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 外类群比较 | outgroup comparison | 以研究类群之外近缘类群的状态推断祖征的方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 系统发育分类 | phylogenetic taxonomy | 以谱系关系定义类群名称的分类主张 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 节点定义 | node-based definition | 以两个类群的最近共同祖先及其全部后裔定义分支名称 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 分支定义 | branch-based definition | 以与某类群的共同祖先比与另一类群更近的全部生物定义分支名称 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 衍征定义 | apomorphy-based definition | 以第一个具有某衍征的祖先及其全部后裔定义分支名称 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 冠群 | crown group | 全部现生成员的最近共同祖先及其全部后裔 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 干群 | stem group | 与冠群关系比与其现生姐妹群更近、但位于冠群之外的已灭绝类群 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 全群 | total group | 冠群与干群之和 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 活化石 | living fossil | 达尔文提出的说法，今多指物种贫乏、形态与化石亲属相似的谱系，其含义有争议 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 
 ## 二 群体遗传学
 

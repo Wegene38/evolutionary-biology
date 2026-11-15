@@ -198,4 +198,4 @@ Understanding Evolution 的读树资源还建议，作图时使用直角的树�
 
 ---
 
-**上一讲** [Day 011 · 正在发生的进化：直接观测](day011-evolution-in-action.md) ｜ **下一讲** Day 013 · 树状思维 II：系统分类与命名
+**上一讲** [Day 011 · 正在发生的进化：直接观测](day011-evolution-in-action.md) ｜ **下一讲** [Day 013 · 树状思维 II：系统分类与命名](day013-systematics-nomenclature.md)
