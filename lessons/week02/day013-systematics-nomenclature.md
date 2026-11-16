@@ -42,7 +42,7 @@ Hennig 的方法依赖于区分性状状态的新旧：
 
 - **衍征**（apomorphy）：相对于祖先状态而言的衍生状态；**祖征**（plesiomorphy）：祖先状态。
 - **共有衍征**（synapomorphy）：两个或多个类群共有的衍征，是它们构成单系群的证据；**共有祖征**（symplesiomorphy）：共同保留的祖征，不能证明单系性（Day 006）。
-- **独有衍征**（autapomorphy）：仅见于单一类群的衍征，可以用来鉴别该类群，但不提供类群之间关系的信息。
+- **自有衍征**（autapomorphy；Day 007）：仅见于单一类群的衍征，可以用来鉴别该类群，但不提供类群之间关系的信息。
 
 要判断哪个状态是衍征，即确定**性状极性**（character polarity），最常用的方法是**外类群比较**（outgroup comparison）：若某状态也见于研究类群之外的近缘类群，最简约的推断是它在研究类群的祖先中已经存在，因而是祖征。需要注意，衍征与祖征是相对于特定的树和特定的层级而言的：同一状态在一个较大类群中是共有衍征，在其内部的亚群之间就成了共有祖征（OpenStax §20.2）。
 
@@ -145,7 +145,7 @@ de Queiroz 与 Gauthier（1992）系统阐述了**系统发育分类**（phyloge
 | 分支系统学 | cladistics (phylogenetic systematics) | 只依据谱系关系、以共有衍征识别单系群并只承认单系群的分类方法 |
 | 衍征 | apomorphy | 相对于祖先状态的衍生性状状态 |
 | 祖征 | plesiomorphy | 祖先性状状态 |
-| 独有衍征 | autapomorphy | 仅见于单一类群的衍征 |
+| 自有衍征 | autapomorphy | 仅见于单一类群的衍征 |
 | 性状极性 | character polarity | 性状各状态之间孰为祖征、孰为衍征的方向 |
 | 外类群比较 | outgroup comparison | 以研究类群之外近缘类群的状态推断祖征的方法 |
 | 系统发育分类 | phylogenetic taxonomy | 以谱系关系定义类群名称的分类主张 |
@@ -183,4 +183,4 @@ de Queiroz 与 Gauthier（1992）系统阐述了**系统发育分类**（phyloge
 
 ---
 
-**上一讲** [Day 012 · 树状思维 I：如何阅读系统发育树](day012-reading-phylogenetic-trees.md) ｜ **下一讲** Day 014 · 第 2 周复盘：进化的证据与树状思维
+**上一讲** [Day 012 · 树状思维 I：如何阅读系统发育树](day012-reading-phylogenetic-trees.md) ｜ **下一讲** [Day 014 · 第 2 周复盘：进化的证据与树状思维](day014-week02-review.md)

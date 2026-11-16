@@ -157,7 +157,6 @@
 | 级 | grade | 处于相似组织水平、但不一定构成单系群的一组生物 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 衍征 | apomorphy | 相对于祖先状态的衍生性状状态 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 祖征 | plesiomorphy | 祖先性状状态 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
-| 独有衍征 | autapomorphy | 仅见于单一类群的衍征 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 性状极性 | character polarity | 性状各状态之间孰为祖征、孰为衍征的方向 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 外类群比较 | outgroup comparison | 以研究类群之外近缘类群的状态推断祖征的方法 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 系统发育分类 | phylogenetic taxonomy | 以谱系关系定义类群名称的分类主张 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |

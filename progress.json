@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 13,
-  "last_updated": "2026-11-15",
+  "last_completed_day": 14,
+  "last_updated": "2026-11-16",
   "history": [
     {
       "day": 1,
@@ -71,6 +71,11 @@
       "day": 13,
       "date": "2026-11-15",
       "file": "lessons/week02/day013-systematics-nomenclature.md"
+    },
+    {
+      "day": 14,
+      "date": "2026-11-16",
+      "file": "lessons/week02/day014-week02-review.md"
     }
   ]
 }

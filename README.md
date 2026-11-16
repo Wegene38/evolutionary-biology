@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **13 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **14 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -63,6 +63,7 @@
 | [011](lessons/week02/day011-evolution-in-action.md) | 2026-11-13 | 正在发生的进化：直接观测 |
 | [012](lessons/week02/day012-reading-phylogenetic-trees.md) | 2026-11-14 | 树状思维 I：如何阅读系统发育树 |
 | [013](lessons/week02/day013-systematics-nomenclature.md) | 2026-11-15 | 树状思维 II：系统分类与命名 |
+| [014](lessons/week02/day014-week02-review.md) | 2026-11-16 | 第 2 周复盘：进化的证据与树状思维 |
 
 ---
 
