@@ -167,6 +167,23 @@
 | 干群 | stem group | 与冠群关系比与其现生姐妹群更近、但位于冠群之外的已灭绝类群 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 全群 | total group | 冠群与干群之和 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
 | 活化石 | living fossil | 达尔文提出的说法，今多指物种贫乏、形态与化石亲属相似的谱系，其含义有争议 | [Day 013](lessons/week02/day013-systematics-nomenclature.md) |
+| 减数分裂 | meiosis | 使染色体数减半、产生单倍体配子的细胞分裂 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 交换 | crossing over | 减数分裂中同源染色体的非姐妹染色单体之间交换片段 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 分离律 | law of segregation | 每个配子只得到一对等位基因中的一个 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 自由组合律 | law of independent assortment | 不同染色体上的基因独立地分配到配子中 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 测交 | test cross | 与隐性纯合子杂交，以子代表型推断待测个体所产生配子的比例 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 卡方拟合优度检验 | chi-square goodness-of-fit test | 比较观察数与假设比例下期望数之间差异的统计检验 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 连锁 | linkage | 同一染色体上的基因倾向于一起遗传的现象 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 重组率 | recombination fraction | 测交子代中重组型所占的比例，介于 0 与 0.5 之间 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 遗传图 | genetic map | 依据重组率确定的基因在染色体上的顺序与相对距离 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 厘摩 | centimorgan (cM) | 遗传图距单位，1 cM 对应约 1% 的重组率 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 作图函数 | map function | 描述重组率与图距之间关系的函数，如 Haldane 作图函数 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 并发系数 | coefficient of coincidence | 观察到的双交换频率与独立假设下期望频率之比 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 干涉 | interference | 一个区段内的交换降低邻近区段交换概率的现象，I = 1 − c | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 等位基因 | allele | 同一基因的不同变体 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 基因型 | genotype | 个体在某些位点上的等位基因组成 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 表型 | phenotype | 个体可观察的性状 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 显性 | dominance | 杂合子的表型与某一纯合子相同时，该等位基因相对于另一等位基因为显性 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
 
 ## 二 群体遗传学
 

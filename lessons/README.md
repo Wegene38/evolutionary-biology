@@ -18,3 +18,4 @@
 | [012](week02/day012-reading-phylogenetic-trees.md) | 2026-11-14 | 第 2 周 | 讲授 | 树状思维 I：如何阅读系统发育树 |
 | [013](week02/day013-systematics-nomenclature.md) | 2026-11-15 | 第 2 周 | 讲授 | 树状思维 II：系统分类与命名 |
 | [014](week02/day014-week02-review.md) | 2026-11-16 | 第 2 周 | 复盘 | 第 2 周复盘：进化的证据与树状思维 |
+| [015](week03/day015-mendel-linkage-recombination.md) | 2026-11-17 | 第 3 周 | 讲授 | 遗传学回顾：孟德尔遗传、连锁与重组 |
