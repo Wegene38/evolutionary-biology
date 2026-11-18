@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **15 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **16 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -65,6 +65,7 @@
 | [013](lessons/week02/day013-systematics-nomenclature.md) | 2026-11-15 | 树状思维 II：系统分类与命名 |
 | [014](lessons/week02/day014-week02-review.md) | 2026-11-16 | 第 2 周复盘：进化的证据与树状思维 |
 | [015](lessons/week03/day015-mendel-linkage-recombination.md) | 2026-11-17 | 遗传学回顾：孟德尔遗传、连锁与重组 |
+| [016](lessons/week03/day016-mutation-rates.md) | 2026-11-18 | 突变 I：类型、速率与测定 |
 
 ---
 

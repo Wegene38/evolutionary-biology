@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 15,
-  "last_updated": "2026-11-17",
+  "last_completed_day": 16,
+  "last_updated": "2026-11-18",
   "history": [
     {
       "day": 1,
@@ -81,6 +81,11 @@
       "day": 15,
       "date": "2026-11-17",
       "file": "lessons/week03/day015-mendel-linkage-recombination.md"
+    },
+    {
+      "day": 16,
+      "date": "2026-11-18",
+      "file": "lessons/week03/day016-mutation-rates.md"
     }
   ]
 }

@@ -184,6 +184,25 @@
 | 基因型 | genotype | 个体在某些位点上的等位基因组成 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
 | 表型 | phenotype | 个体可观察的性状 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
 | 显性 | dominance | 杂合子的表型与某一纯合子相同时，该等位基因相对于另一等位基因为显性 | [Day 015](lessons/week03/day015-mendel-linkage-recombination.md) |
+| 突变 | mutation | DNA 序列的可遗传改变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 种系突变 | germline mutation | 发生在生殖细胞系中、可传给后代的突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 体细胞突变 | somatic mutation | 发生在体细胞中、不传给后代的突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 替代 | substitution | 新等位基因在群体或物种中被固定 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 点突变 | point mutation | 单个碱基的改变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 转换 | transition | 嘌呤之间或嘧啶之间的碱基替换 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 颠换 | transversion | 嘌呤与嘧啶之间的碱基替换 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 同义突变 | synonymous mutation | 不改变所编码氨基酸的点突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 错义突变 | missense mutation | 改变所编码氨基酸的点突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 无义突变 | nonsense mutation | 产生提前终止密码子的点突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 移码突变 | frameshift mutation | 编码区中长度不是 3 的倍数的插入或缺失，改变下游读码框 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 结构变异 | structural variant | 大片段的缺失、重复、倒位、易位与插入等改变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 拷贝数变异 | copy number variation (CNV) | 基因组片段拷贝数在个体之间的差异 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 突变谱 | mutation spectrum | 各类突变发生的相对频率 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 突变率 | mutation rate | 单位时间或单位世代内每个位点（或每个基因组）发生突变的频率 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 突变积累实验 | mutation accumulation experiment | 以极小群体传代、使突变近乎中性地积累，再测序估计突变率的实验 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 新生突变 | de novo mutation | 子代中出现而父母均不携带的突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 父龄效应 | paternal age effect | 子代新生突变数随父亲年龄增加的现象 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 漂变障碍假说 | drift-barrier hypothesis | 认为突变率等分子性状的改进极限由遗传漂变的强度决定的假说 | [Day 016](lessons/week03/day016-mutation-rates.md) |
 
 ## 二 群体遗传学
 
