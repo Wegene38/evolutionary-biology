@@ -203,6 +203,17 @@
 | 新生突变 | de novo mutation | 子代中出现而父母均不携带的突变 | [Day 016](lessons/week03/day016-mutation-rates.md) |
 | 父龄效应 | paternal age effect | 子代新生突变数随父亲年龄增加的现象 | [Day 016](lessons/week03/day016-mutation-rates.md) |
 | 漂变障碍假说 | drift-barrier hypothesis | 认为突变率等分子性状的改进极限由遗传漂变的强度决定的假说 | [Day 016](lessons/week03/day016-mutation-rates.md) |
+| 波动检验 | fluctuation test | 比较平行培养中突变体数的方差与均值，以区分自发突变与诱导突变的实验 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| Luria–Delbrück 分布 | Luria–Delbrück distribution | 生长过程中随机发生的突变所产生的突变体数的分布，方差远大于均值 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 零类法 | p0 method | 由无突变体培养所占比例估计平均突变事件数的方法 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 影印平板 | replica plating | 用绒布把母板上菌落的位置原样转移到其他平板上的方法 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 间接选择 | indirect selection | 不让被选个体接触选择因子，而依据其同胞克隆的表现进行选择 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 随机突变 | random mutation | 突变的发生与其在当前环境中是否有利无关 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 突变偏向 | mutation bias | 不同类型或不同基因组区域的突变率之间的系统性差异 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 选择系数 | selection coefficient | 突变使相对适合度改变的量 s | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 适合度效应分布 | distribution of fitness effects (DFE) | 新突变选择系数的分布 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| Bateman–Mukai 方法 | Bateman–Mukai method | 由突变积累系适合度均值的下降与方差的增加估计突变率下限与平均效应上限的方法 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 有效中性 | effectively neutral | 选择系数与有效群体大小之积的绝对值远小于 1、命运主要由漂变决定的突变状态 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
 
 ## 二 群体遗传学
 

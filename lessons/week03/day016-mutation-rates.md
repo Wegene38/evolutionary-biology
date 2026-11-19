@@ -163,4 +163,4 @@ Kong 等（2012）发现，在扣除泊松随机波动之后，父亲年龄几�
 
 ---
 
-**上一讲** [Day 015 · 遗传学回顾：孟德尔遗传、连锁与重组](day015-mendel-linkage-recombination.md) ｜ **下一讲** Day 017 · 突变 II：随机性与适合度效应分布
+**上一讲** [Day 015 · 遗传学回顾：孟德尔遗传、连锁与重组](day015-mendel-linkage-recombination.md) ｜ **下一讲** [Day 017 · 突变 II：随机性与适合度效应分布](day017-mutation-randomness-dfe.md)

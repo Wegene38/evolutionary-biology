@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 16,
-  "last_updated": "2026-11-18",
+  "last_completed_day": 17,
+  "last_updated": "2026-11-19",
   "history": [
     {
       "day": 1,
@@ -86,6 +86,11 @@
       "day": 16,
       "date": "2026-11-18",
       "file": "lessons/week03/day016-mutation-rates.md"
+    },
+    {
+      "day": 17,
+      "date": "2026-11-19",
+      "file": "lessons/week03/day017-mutation-randomness-dfe.md"
     }
   ]
 }
