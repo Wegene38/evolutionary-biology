@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 17,
-  "last_updated": "2026-11-19",
+  "last_completed_day": 18,
+  "last_updated": "2026-11-20",
   "history": [
     {
       "day": 1,
@@ -91,6 +91,11 @@
       "day": 17,
       "date": "2026-11-19",
       "file": "lessons/week03/day017-mutation-randomness-dfe.md"
+    },
+    {
+      "day": 18,
+      "date": "2026-11-20",
+      "file": "lessons/week03/day018-recombination-hotspots.md"
     }
   ]
 }

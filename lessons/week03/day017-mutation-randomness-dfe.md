@@ -163,4 +163,4 @@ $$U \ge \frac{(\Delta M)^{2}}{\Delta V}, \qquad \bar s \le \frac{\Delta V}{\Delt
 
 ---
 
-**上一讲** [Day 016 · 突变 I：类型、速率与测定](day016-mutation-rates.md) ｜ **下一讲** Day 018 · 重组：交叉、基因转换与重组热点
+**上一讲** [Day 016 · 突变 I：类型、速率与测定](day016-mutation-rates.md) ｜ **下一讲** [Day 018 · 重组：交叉、基因转换与重组热点](day018-recombination-hotspots.md)

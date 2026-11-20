@@ -214,6 +214,21 @@
 | 适合度效应分布 | distribution of fitness effects (DFE) | 新突变选择系数的分布 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
 | Bateman–Mukai 方法 | Bateman–Mukai method | 由突变积累系适合度均值的下降与方差的增加估计突变率下限与平均效应上限的方法 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
 | 有效中性 | effectively neutral | 选择系数与有效群体大小之积的绝对值远小于 1、命运主要由漂变决定的突变状态 | [Day 017](lessons/week03/day017-mutation-randomness-dfe.md) |
+| 双链断裂 | double-strand break (DSB) | DNA 两条链同时断开；减数分裂中由 SPO11 有计划地产生，以启动重组 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 双链断裂修复模型 | double-strand break repair (DSBR) model | 断裂末端切除、单链侵入同源染色体，形成双 Holliday 连接后被拆解的重组模型 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 双 Holliday 连接 | double Holliday junction (dHJ) | 两条同源 DNA 分子之间含两个四链交叉结构的重组中间体 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 非交叉 | non-crossover (NCO) | 两侧序列不发生互换的重组修复结果，常伴有短片段的基因转换 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 联会复合体 | synaptonemal complex | 减数分裂前期 I 中沿全长连接同源染色体的蛋白质结构 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 交叉结 | chiasma | 同源染色体之间可在显微镜下观察到的连接点，是交换的细胞学表现 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 交叉保证 | obligate crossover | 每对同源染色体通常至少发生一次交叉的规律 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 交叉稳态 | crossover homeostasis | 双链断裂数目波动时交叉数目仍保持相对稳定的现象 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| Kosambi 作图函数 | Kosambi map function | 在推导中考虑了干涉的作图函数 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 基因转换 | gene conversion | 一条同源染色体上的一段序列被另一条同源染色体的序列非相互地改写 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 异源双链 DNA | heteroduplex DNA | 由来自两条同源染色体的单链配对形成、可能含有错配的双链 DNA | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 重组热点 | recombination hotspot | 重组率远高于周围区域的狭窄基因组区段 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 精子分型 | sperm typing | 对精子 DNA 分型，以直接测定某一区段交叉与基因转换频率的方法 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 热点转换悖论 | hotspot conversion paradox | 热点等位基因因基因转换在传递中处于劣势、理论上应自我消亡却普遍存在的矛盾 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 雌雄重组差异 | heterochiasmy | 两性之间重组率或重组分布的差异 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
 
 ## 二 群体遗传学
 
