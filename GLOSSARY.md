@@ -229,6 +229,21 @@
 | 精子分型 | sperm typing | 对精子 DNA 分型，以直接测定某一区段交叉与基因转换频率的方法 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
 | 热点转换悖论 | hotspot conversion paradox | 热点等位基因因基因转换在传递中处于劣势、理论上应自我消亡却普遍存在的矛盾 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
 | 雌雄重组差异 | heterochiasmy | 两性之间重组率或重组分布的差异 | [Day 018](lessons/week03/day018-recombination-hotspots.md) |
+| 多态位点 | polymorphic site | 样本中存在两个或以上等位基因的位点 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 单核苷酸变异 | single-nucleotide variant (SNV) | 单个碱基位置上的序列差异，不论其在群体中的频率 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 单核苷酸多态性 | single-nucleotide polymorphism (SNP) | 习惯上指在群体中达到一定频率的单核苷酸变异，许多文献与 SNV 混用 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 插入缺失 | insertion–deletion (indel) | 少量碱基的插入或缺失 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 倒位 | inversion | 染色体片段方向颠倒的结构变异 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 移动元件插入 | mobile element insertion (MEI) | 转座元件的新拷贝插入基因组造成的结构变异 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 非整倍性 | aneuploidy | 个别染色体数目增加或减少的状态 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 变异识别 | variant calling | 由比对到参考基因组的读段推断各位点变异与基因型的过程 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 测序深度 | sequencing depth | 覆盖基因组某一位置的读段数 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 基因型似然 | genotype likelihood | 在某一基因型下观察到现有读段数据的概率 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| VCF 格式 | variant call format (VCF) | 存储序列变异与样本基因型的标准文本格式 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 单倍型 | haplotype | 同一条染色体上一组相邻位点的等位基因组合 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 定相 | phasing | 确定杂合位点上各等位基因分别位于哪条同源染色体上的过程 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 参考偏倚 | reference bias | 以参考基因组为坐标分析数据时，偏向参考等位基因的系统误差 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 泛基因组 | pangenome | 一个物种多个个体基因组序列的集合 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
 
 ## 二 群体遗传学
 

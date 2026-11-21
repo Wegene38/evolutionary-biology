@@ -22,3 +22,4 @@
 | [016](week03/day016-mutation-rates.md) | 2026-11-18 | 第 3 周 | 讲授 | 突变 I：类型、速率与测定 |
 | [017](week03/day017-mutation-randomness-dfe.md) | 2026-11-19 | 第 3 周 | 讲授 | 突变 II：随机性与适合度效应分布 |
 | [018](week03/day018-recombination-hotspots.md) | 2026-11-20 | 第 3 周 | 讲授 | 重组：交叉、基因转换与重组热点 |
+| [019](week03/day019-genomic-variation-data.md) | 2026-11-21 | 第 3 周 | 讲授 | 基因组变异的形式与群体测序数据 |

@@ -207,4 +207,4 @@ PRDM9 的发现提示了一种解决方式。热点确实在被毁灭，Myers �
 
 ---
 
-**上一讲** [Day 017 · 突变 II：随机性与适合度效应分布](day017-mutation-randomness-dfe.md) ｜ **下一讲** Day 019 · 基因组变异的形式与群体测序数据
+**上一讲** [Day 017 · 突变 II：随机性与适合度效应分布](day017-mutation-randomness-dfe.md) ｜ **下一讲** [Day 019 · 基因组变异的形式与群体测序数据](day019-genomic-variation-data.md)
