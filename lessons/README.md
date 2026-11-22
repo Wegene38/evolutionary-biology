@@ -23,3 +23,4 @@
 | [017](week03/day017-mutation-randomness-dfe.md) | 2026-11-19 | 第 3 周 | 讲授 | 突变 II：随机性与适合度效应分布 |
 | [018](week03/day018-recombination-hotspots.md) | 2026-11-20 | 第 3 周 | 讲授 | 重组：交叉、基因转换与重组热点 |
 | [019](week03/day019-genomic-variation-data.md) | 2026-11-21 | 第 3 周 | 讲授 | 基因组变异的形式与群体测序数据 |
+| [020](week03/day020-genotype-to-phenotype.md) | 2026-11-22 | 第 3 周 | 讲授 | 从基因型到表型：上位性、多效性与可塑性 |

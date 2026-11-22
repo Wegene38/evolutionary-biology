@@ -244,6 +244,18 @@
 | 定相 | phasing | 确定杂合位点上各等位基因分别位于哪条同源染色体上的过程 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
 | 参考偏倚 | reference bias | 以参考基因组为坐标分析数据时，偏向参考等位基因的系统误差 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
 | 泛基因组 | pangenome | 一个物种多个个体基因组序列的集合 | [Day 019](lessons/week03/day019-genomic-variation-data.md) |
+| 基因型–表型图谱 | genotype–phenotype map (GP map) | 基因型与其所产生表型之间的对应关系，通常是多对一、非线性且依赖环境的 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 隐性 | recessive | 等位基因只在纯合时才表现其表型效应 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 不完全显性 | incomplete dominance | 杂合子的表型介于两种纯合子之间 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 共显性 | codominance | 杂合子同时表现两个等位基因的表型 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 上位性 | epistasis | 一个位点等位基因的效应取决于其他位点基因型的现象 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 功能上位性 | functional epistasis | 蛋白质等遗传元件之间的分子相互作用 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 统计上位性 | statistical epistasis | 群体中多位点基因型值对加性模型的平均偏离，取决于等位基因频率 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 多效性 | pleiotropy | 一个基因或突变影响多个性状的现象 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 反应规范 | reaction norm | 一个基因型在不同环境中所产生的表型的集合，常表示为表型对环境的函数 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 表型可塑性 | phenotypic plasticity | 同一基因型在不同环境中产生不同表型的能力 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 基因型 × 环境互作 | genotype-by-environment interaction (G×E) | 不同基因型对环境变化的反应不同，表现为反应规范不平行 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 跨环境遗传相关 | cross-environment genetic correlation | 同一性状在不同环境中的表达之间的遗传相关 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
 
 ## 二 群体遗传学
 

@@ -183,4 +183,4 @@ Day 016–018 讨论了新变异如何产生：点突变、indel、结构变异�
 
 ---
 
-**上一讲** [Day 018 · 重组：交叉、基因转换与重组热点](day018-recombination-hotspots.md) ｜ **下一讲** Day 020 · 从基因型到表型：上位性、多效性与可塑性
+**上一讲** [Day 018 · 重组：交叉、基因转换与重组热点](day018-recombination-hotspots.md) ｜ **下一讲** [Day 020 · 从基因型到表型：上位性、多效性与可塑性](day020-genotype-to-phenotype.md)

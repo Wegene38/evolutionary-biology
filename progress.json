@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 19,
-  "last_updated": "2026-11-21",
+  "last_completed_day": 20,
+  "last_updated": "2026-11-22",
   "history": [
     {
       "day": 1,
@@ -101,6 +101,11 @@
       "day": 19,
       "date": "2026-11-21",
       "file": "lessons/week03/day019-genomic-variation-data.md"
+    },
+    {
+      "day": 20,
+      "date": "2026-11-22",
+      "file": "lessons/week03/day020-genotype-to-phenotype.md"
     }
   ]
 }
