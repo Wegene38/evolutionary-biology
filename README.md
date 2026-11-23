@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **20 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **21 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -70,6 +70,7 @@
 | [018](lessons/week03/day018-recombination-hotspots.md) | 2026-11-20 | 重组：交叉、基因转换与重组热点 |
 | [019](lessons/week03/day019-genomic-variation-data.md) | 2026-11-21 | 基因组变异的形式与群体测序数据 |
 | [020](lessons/week03/day020-genotype-to-phenotype.md) | 2026-11-22 | 从基因型到表型：上位性、多效性与可塑性 |
+| [021](lessons/week03/day021-week03-review.md) | 2026-11-23 | 第 3 周复盘：遗传变异的来源 |
 
 ---
 

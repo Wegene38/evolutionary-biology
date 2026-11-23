@@ -256,6 +256,8 @@
 | 表型可塑性 | phenotypic plasticity | 同一基因型在不同环境中产生不同表型的能力 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
 | 基因型 × 环境互作 | genotype-by-environment interaction (G×E) | 不同基因型对环境变化的反应不同，表现为反应规范不平行 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
 | 跨环境遗传相关 | cross-environment genetic correlation | 同一性状在不同环境中的表达之间的遗传相关 | [Day 020](lessons/week03/day020-genotype-to-phenotype.md) |
+| 均值法 | method of the mean | 由平行培养中突变体数的均值、按 Luria–Delbrück 模型估计平均突变事件数的方法，易受大奖培养影响而有偏 | [Day 021](lessons/week03/day021-week03-review.md) |
+| 大奖培养 | jackpot culture | 突变在生长早期发生、因而含有大量突变体的平行培养 | [Day 021](lessons/week03/day021-week03-review.md) |
 
 ## 二 群体遗传学
 

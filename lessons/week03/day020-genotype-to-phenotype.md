@@ -178,4 +178,4 @@ Lewontin（1974）在一篇经典文章中讨论了方差分析与原因分析�
 
 ---
 
-**上一讲** [Day 019 · 基因组变异的形式与群体测序数据](day019-genomic-variation-data.md) ｜ **下一讲** Day 021 · 第 3 周复盘
+**上一讲** [Day 019 · 基因组变异的形式与群体测序数据](day019-genomic-variation-data.md) ｜ **下一讲** [Day 021 · 第 3 周复盘：遗传变异的来源](day021-week03-review.md)
