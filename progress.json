@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 21,
-  "last_updated": "2026-11-23",
+  "last_completed_day": 22,
+  "last_updated": "2026-11-24",
   "history": [
     {
       "day": 1,
@@ -111,6 +111,11 @@
       "day": 21,
       "date": "2026-11-23",
       "file": "lessons/week03/day021-week03-review.md"
+    },
+    {
+      "day": 22,
+      "date": "2026-11-24",
+      "file": "lessons/week04/day022-hardy-weinberg.md"
     }
   ]
 }

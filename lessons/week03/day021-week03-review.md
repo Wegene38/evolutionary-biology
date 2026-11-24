@@ -151,4 +151,4 @@ $$\bar r = m\ln(mC),$$
 
 ---
 
-**下周预告** 第 4 周 · 群体遗传学基础：HWE、连锁不平衡与选择模型（Day 022：等位基因频率与 Hardy–Weinberg 平衡）
+**下周预告** 第 4 周 · 群体遗传学基础：HWE、连锁不平衡与选择模型（[Day 022：等位基因频率与 Hardy–Weinberg 平衡](../week04/day022-hardy-weinberg.md)）

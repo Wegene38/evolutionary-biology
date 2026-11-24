@@ -263,6 +263,14 @@
 
 | 中文 | English | 释义 | 首次出现 |
 |---|---|---|---|
+| 基因库 | gene pool | 群体中全部等位基因的总和 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 等位基因频率 | allele frequency | 某一等位基因在群体中该位点全部等位基因拷贝中所占的比例 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 基因型频率 | genotype frequency | 某一基因型的个体在群体中所占的比例 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 随机交配 | random mating | 个体之间的交配与其在所研究位点上的基因型无关 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| Hardy–Weinberg 平衡 | Hardy–Weinberg equilibrium (HWE) | 在无进化力量与随机交配下，基因型频率为 p²、2pq、q² 且代代不变的状态 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 复等位基因 | multiple alleles | 同一位点上存在的两个以上的等位基因 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 半合子 | hemizygous | 二倍体个体中只有一个拷贝的基因所处的状态，如雄性哺乳动物的 X 连锁基因 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| X 连锁 | X-linked | 位于 X 染色体上、在两性中拷贝数不同的遗传方式 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
 
 ## 三 表型进化与适应
 
