@@ -182,4 +182,4 @@ Hardy–Weinberg 原理的价值不在于现实群体总是符合它，而在于
 
 ---
 
-**上一讲** [Day 021 · 第 3 周复盘：遗传变异的来源](../week03/day021-week03-review.md) ｜ **下一讲** Day 023 · 偏离 HWE：近交、选型交配与群体结构
+**上一讲** [Day 021 · 第 3 周复盘：遗传变异的来源](../week03/day021-week03-review.md) ｜ **下一讲** [Day 023 · 偏离 HWE：近交、选型交配与群体结构](day023-departures-from-hwe.md)

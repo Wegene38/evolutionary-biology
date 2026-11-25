@@ -271,6 +271,16 @@
 | 复等位基因 | multiple alleles | 同一位点上存在的两个以上的等位基因 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
 | 半合子 | hemizygous | 二倍体个体中只有一个拷贝的基因所处的状态，如雄性哺乳动物的 X 连锁基因 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
 | X 连锁 | X-linked | 位于 X 染色体上、在两性中拷贝数不同的遗传方式 | [Day 022](lessons/week04/day022-hardy-weinberg.md) |
+| 近交 | inbreeding | 亲缘个体之间的交配 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 近交系数 | inbreeding coefficient (F) | 度量杂合度相对于 Hardy–Weinberg 期望减少程度的参数，F = 1 − 观察杂合度/期望杂合度 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 杂合子缺失 | heterozygote deficit | 观察到的杂合子频率低于 Hardy–Weinberg 期望 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 自交 | self-fertilization (selfing) | 同一个体的雌雄配子结合，是最极端的近交 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 选型交配 | assortative mating | 交配个体在某一表型上的相似程度高于随机预期 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 负选型交配 | disassortative mating | 表型不同的个体更倾向于交配 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 群体结构 | population structure | 群体内部分为等位基因频率不同、彼此并非随机交配的亚群体 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| Wahlund 效应 | Wahlund effect | 合并频率不同的亚群体时出现的表观杂合子缺失，大小为 2 倍的亚群体间频率方差 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 精确检验 | exact test | 以观察到的等位基因计数为条件，直接计算各种基因型组成概率的检验 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 零等位基因 | null allele | 无法被分型方法检测到的等位基因，会使杂合子被误判为纯合子 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
 
 ## 三 表型进化与适应
 
