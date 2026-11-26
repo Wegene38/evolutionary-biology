@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **23 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **24 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -73,6 +73,7 @@
 | [021](lessons/week03/day021-week03-review.md) | 2026-11-23 | 第 3 周复盘：遗传变异的来源 |
 | [022](lessons/week04/day022-hardy-weinberg.md) | 2026-11-24 | 等位基因频率与 Hardy–Weinberg 平衡 |
 | [023](lessons/week04/day023-departures-from-hwe.md) | 2026-11-25 | 偏离 HWE：近交、选型交配与群体结构 |
+| [024](lessons/week04/day024-linkage-disequilibrium.md) | 2026-11-26 | 连锁不平衡 |
 
 ---
 

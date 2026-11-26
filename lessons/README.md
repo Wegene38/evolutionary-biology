@@ -27,3 +27,4 @@
 | [021](week03/day021-week03-review.md) | 2026-11-23 | 第 3 周 | 复盘 | 第 3 周复盘：遗传变异的来源 |
 | [022](week04/day022-hardy-weinberg.md) | 2026-11-24 | 第 4 周 | 讲授 | 等位基因频率与 Hardy–Weinberg 平衡 |
 | [023](week04/day023-departures-from-hwe.md) | 2026-11-25 | 第 4 周 | 讲授 | 偏离 HWE：近交、选型交配与群体结构 |
+| [024](week04/day024-linkage-disequilibrium.md) | 2026-11-26 | 第 4 周 | 讲授 | 连锁不平衡 |

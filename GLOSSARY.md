@@ -281,6 +281,12 @@
 | Wahlund 效应 | Wahlund effect | 合并频率不同的亚群体时出现的表观杂合子缺失，大小为 2 倍的亚群体间频率方差 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
 | 精确检验 | exact test | 以观察到的等位基因计数为条件，直接计算各种基因型组成概率的检验 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
 | 零等位基因 | null allele | 无法被分型方法检测到的等位基因，会使杂合子被误判为纯合子 | [Day 023](lessons/week04/day023-departures-from-hwe.md) |
+| 连锁不平衡 | linkage disequilibrium (LD) | 不同位点的等位基因在单倍型中的非随机关联，不要求位点相互连锁 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 连锁平衡 | linkage equilibrium | 单倍型频率等于各位点等位基因频率之积的状态 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 单倍型频率 | haplotype frequency | 某一单倍型在群体全部单倍型中所占的比例 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 标准化连锁不平衡系数 | normalized linkage disequilibrium (D′) | D 除以给定等位基因频率下 D 可能取到的最大绝对值 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 连锁不平衡相关系数平方 | squared correlation coefficient (r²) | 两个位点等位基因状态之间相关系数的平方，衡量一个位点对另一个位点的预测能力 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 混合连锁不平衡 | admixture linkage disequilibrium | 等位基因频率不同的群体混合后产生的连锁不平衡 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
 
 ## 三 表型进化与适应
 

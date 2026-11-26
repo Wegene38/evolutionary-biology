@@ -173,4 +173,4 @@ $P$ 值为所有概率不大于观察结果的情形的概率之和。Wigginton�
 
 ---
 
-**上一讲** [Day 022 · 等位基因频率与 Hardy–Weinberg 平衡](day022-hardy-weinberg.md) ｜ **下一讲** Day 024 · 连锁不平衡
+**上一讲** [Day 022 · 等位基因频率与 Hardy–Weinberg 平衡](day022-hardy-weinberg.md) ｜ **下一讲** [Day 024 · 连锁不平衡](day024-linkage-disequilibrium.md)
