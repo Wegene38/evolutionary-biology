@@ -170,4 +170,4 @@ $$D = \frac{1}{4}\left(p_{A1} - p_{A2}\right)\left(p_{B1} - p_{B2}\right),$$
 
 ---
 
-**上一讲** [Day 023 · 偏离 HWE：近交、选型交配与群体结构](day023-departures-from-hwe.md) ｜ **下一讲** Day 025 · 自然选择 I：单位点选择模型
+**上一讲** [Day 023 · 偏离 HWE：近交、选型交配与群体结构](day023-departures-from-hwe.md) ｜ **下一讲** [Day 025 · 自然选择 I：单位点选择模型](day025-single-locus-selection.md)

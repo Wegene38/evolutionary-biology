@@ -287,6 +287,11 @@
 | 标准化连锁不平衡系数 | normalized linkage disequilibrium (D′) | D 除以给定等位基因频率下 D 可能取到的最大绝对值 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
 | 连锁不平衡相关系数平方 | squared correlation coefficient (r²) | 两个位点等位基因状态之间相关系数的平方，衡量一个位点对另一个位点的预测能力 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
 | 混合连锁不平衡 | admixture linkage disequilibrium | 等位基因频率不同的群体混合后产生的连锁不平衡 | [Day 024](lessons/week04/day024-linkage-disequilibrium.md) |
+| 绝对适合度 | absolute fitness | 某一基因型的个体平均对下一代贡献的后代数，可分解为存活率与繁殖力之积 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
+| 相对适合度 | relative fitness | 某一基因型的绝对适合度除以参照基因型的绝对适合度 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
+| 平均适合度 | mean fitness | 群体中各基因型相对适合度按频率加权的平均值 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
+| 生存力选择 | viability selection | 作用于合子到成体之间存活率差异的选择 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
+| 基因选择 | genic selection | 每个等位基因拷贝对适合度有独立的乘性效应的选择方式，二倍体模型此时与单倍体模型等价 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
 
 ## 三 表型进化与适应
 
