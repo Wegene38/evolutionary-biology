@@ -292,6 +292,12 @@
 | 平均适合度 | mean fitness | 群体中各基因型相对适合度按频率加权的平均值 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
 | 生存力选择 | viability selection | 作用于合子到成体之间存活率差异的选择 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
 | 基因选择 | genic selection | 每个等位基因拷贝对适合度有独立的乘性效应的选择方式，二倍体模型此时与单倍体模型等价 | [Day 025](lessons/week04/day025-single-locus-selection.md) |
+| 显性度 | dominance coefficient (h) | 杂合子的适合度在两种纯合子之间所处的位置，h = 0 为隐性，h = 1 为显性 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
+| Haldane 筛 | Haldane's sieve | 由新突变推动的适应中，显性有利突变比隐性有利突变更易存留并被固定的效应 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
+| 杂合子优势 | heterozygote advantage (overdominance) | 杂合子的适合度高于两种纯合子 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
+| 平衡多态 | balanced polymorphism | 由选择维持在稳定中间频率上的多态 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
+| 分离负荷 | segregational load | 杂合子优势下因孟德尔分离不断产生纯合子而导致的平均适合度降低 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
+| 低显性 | underdominance | 杂合子的适合度低于两种纯合子，导致不稳定平衡 | [Day 026](lessons/week04/day026-dominance-overdominance.md) |
 
 ## 三 表型进化与适应
 

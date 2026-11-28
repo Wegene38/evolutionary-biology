@@ -4,8 +4,8 @@
   "timezone": "Europe/Dublin",
   "start_date": "2026-11-03",
   "total_days": 182,
-  "last_completed_day": 25,
-  "last_updated": "2026-11-27",
+  "last_completed_day": 26,
+  "last_updated": "2026-11-28",
   "history": [
     {
       "day": 1,
@@ -131,6 +131,11 @@
       "day": 25,
       "date": "2026-11-27",
       "file": "lessons/week04/day025-single-locus-selection.md"
+    },
+    {
+      "day": 26,
+      "date": "2026-11-28",
+      "file": "lessons/week04/day026-dominance-overdominance.md"
     }
   ]
 }

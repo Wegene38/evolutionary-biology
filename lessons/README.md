@@ -29,3 +29,4 @@
 | [023](week04/day023-departures-from-hwe.md) | 2026-11-25 | 第 4 周 | 讲授 | 偏离 HWE：近交、选型交配与群体结构 |
 | [024](week04/day024-linkage-disequilibrium.md) | 2026-11-26 | 第 4 周 | 讲授 | 连锁不平衡 |
 | [025](week04/day025-single-locus-selection.md) | 2026-11-27 | 第 4 周 | 讲授 | 自然选择 I：单位点选择模型 |
+| [026](week04/day026-dominance-overdominance.md) | 2026-11-28 | 第 4 周 | 讲授 | 自然选择 II：显性、超显性与平衡多态 |

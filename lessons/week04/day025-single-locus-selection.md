@@ -163,4 +163,4 @@ $$\Delta p = \frac{pq}{2\bar w}\,\frac{d\bar w}{dp}.$$
 
 ---
 
-**上一讲** [Day 024 · 连锁不平衡](day024-linkage-disequilibrium.md) ｜ **下一讲** Day 026 · 自然选择 II：显性、超显性与平衡多态
+**上一讲** [Day 024 · 连锁不平衡](day024-linkage-disequilibrium.md) ｜ **下一讲** [Day 026 · 自然选择 II：显性、超显性与平衡多态](day026-dominance-overdominance.md)

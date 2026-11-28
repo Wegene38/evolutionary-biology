@@ -46,7 +46,7 @@
 
 ## 学习进度
 
-已发布 **25 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
+已发布 **26 / 182** 讲。完整索引见 [lessons/README.md](lessons/README.md)。
 
 | Day | 日期 | 主题 |
 |---|---|---|
@@ -75,6 +75,7 @@
 | [023](lessons/week04/day023-departures-from-hwe.md) | 2026-11-25 | 偏离 HWE：近交、选型交配与群体结构 |
 | [024](lessons/week04/day024-linkage-disequilibrium.md) | 2026-11-26 | 连锁不平衡 |
 | [025](lessons/week04/day025-single-locus-selection.md) | 2026-11-27 | 自然选择 I：单位点选择模型 |
+| [026](lessons/week04/day026-dominance-overdominance.md) | 2026-11-28 | 自然选择 II：显性、超显性与平衡多态 |
 
 ---
 
